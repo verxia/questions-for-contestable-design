@@ -1,7 +1,7 @@
 # Additional materials for Questions for Contestable Design Project
 
 __Codebook__
-* `qcd_codebook`: Examples of quotes from our dataset used to generate each question in QCD
+* `qcd_quote_example`: Examples of quotes from our dataset used to generate each question in QCD
 
 __Workshop Materials__
 * `wksp_print_double_sided`: Path cards, print the file once for each group
